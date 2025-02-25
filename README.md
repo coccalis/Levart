@@ -41,7 +41,8 @@ This project was created for my thesis. Its goal is to combine the features of t
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
+  <img src="assets/collage.png" alt="screenshot" />
+  <p>More screenshots in documentation</p>
 </div>
 
 
