@@ -50,7 +50,7 @@ This project was created for my thesis. Its goal is to combine the features of t
 ### :space_invader: Tech Stack
 
 <details>
-  <summary>Client</summary>
+  <summary>Front-end</summary>
   <ul>
     <li><a href="https://reactjs.org/">React.js</a></li>
     <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
@@ -59,7 +59,7 @@ This project was created for my thesis. Its goal is to combine the features of t
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>Back-end</summary>
   <ul>
     <li><a href="https://spring.io/projects/spring-boot">Spring Boot</a></li>
   </ul>
