@@ -11,7 +11,7 @@
 <h4>
   <!--  <a href="https://github.com/Louis3797/awesome-readme-template/">View Demo</a>-->
   <!--<span> · </span>-->
-    <a href="https://github.com/Louis3797/awesome-readme-template">Documentation</a>
+    <a href="https://polynoe.lib.uniwa.gr/xmlui/handle/11400/8705">Documentation</a>
 
   </h4>
 </div>
@@ -104,7 +104,8 @@ This project was created for my thesis. Its goal is to combine the features of t
 <!-- Env Variables -->
 ### :key: Environment Variables
 
-To run this project, you will need to create an .env file on the root directory and add the following environment variables to it.
+### Front end: 
+To run the front-end section, you will need to create an .env file on the root directory and add the following environment variables to it.
 Need an api key from: 
  - Gemini AI API: https://aistudio.google.com/
  - WeatherAPI: https://www.weatherapi.com/
@@ -116,6 +117,23 @@ Need an api key from:
 VITE_GEM_AI_API_KEY = ""
 VITE_WEATHER_API_KEY = ""
 VITE_GOOGLE_IMG_KEY = ""
+```
+
+### Back end: 
+To run and connect correctly with the postgreSQL db and the Azure in the spring boot project at the application.yml file make sure to:
+- add the correct port of your system `server: port: 8080`
+- add the correct url and username/password: 
+``` 
+url: jdbc:postgresql://localhost:[your port]/levart
+username: [your username]
+password: [your password]
+```
+- add your container-name and account key
+```
+azure:
+  storage:
+      container-name: [name
+      connection-string: DefaultEndpointsProtocol=https;AccountName=[name];AccountKey=[your key];EndpointSuffix=core.windows.net
 ```
 
 <!-- Getting Started -->
