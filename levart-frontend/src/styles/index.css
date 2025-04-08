@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  overflow-x: hidden;
+}
+
+.slick-slide > div {
+  margin: 0 5px;
+}
+
+.slick-slide,
+.slick-active {
+  width: 100%;
+}
+
+/* Works on Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #47a050ab #ffffff00;
+}
+
+/* For Webkit browsers (Chrome, Safari, Edge) */
+*::-webkit-scrollbar {
+  width: 12px;
+}
+
+*::-webkit-scrollbar-track {
+  background: #ffffff00;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #47a050ab;
+  border-radius: 60px; /* Increase border-radius to 60px */
+  border: 3px solid #ffffff00; /* Invisible border to create a padding effect */
+}
