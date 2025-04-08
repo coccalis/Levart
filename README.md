@@ -132,7 +132,7 @@ password: [your password]
 ```
 azure:
   storage:
-      container-name: [name
+      container-name: [name]
       connection-string: DefaultEndpointsProtocol=https;AccountName=[name];AccountKey=[your key];EndpointSuffix=core.windows.net
 ```
 
@@ -141,6 +141,41 @@ azure:
 File : https://www.figma.com/design/O2c7dlm66rro7a5cPMklxf/Levart---Social-Media-x-Travelling?node-id=0-1&t=rpRK5Gl7XNUafDnJ-1
 
 ### Color Palette
+Blue: 
+- `#6FA8DC` 	
+
+Purple - Pink: 
+- `#8E7CC3`
+- `#DC6FBC`
+- `#6F81DC`
+
+Yellow:
+- `#DCCA6F`
+- `#F2F1EC`
+
+Red:
+- `#E06666`
+- `#F87171`
+
+Green:
+- `#00241B`
+- `#2E8236`
+- `#47A050`
+- `#78E378`
+- `#9ED7A3`
+- `#D2FFD7`
+
+Grey:
+- `#FFFFFF`
+- `#D4D4D8`
+- `#F2F1EC`
+- `#F5F5F5`
+- `#8A8A8A`
+- `#71717A`
+- `#3A3A3A`
+
+### Typography: 
+- Roboto
 
 
 <!-- Getting Started -->
