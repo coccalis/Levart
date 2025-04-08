@@ -11,7 +11,7 @@
 <h4>
   <!--  <a href="https://github.com/Louis3797/awesome-readme-template/">View Demo</a>-->
   <!--<span> · </span>-->
-    <a href="https://github.com/Louis3797/awesome-readme-template">Documentation</a>
+    <a href="https://polynoe.lib.uniwa.gr/xmlui/handle/11400/8705">Documentation</a>
 
   </h4>
 </div>
@@ -104,7 +104,8 @@ This project was created for my thesis. Its goal is to combine the features of t
 <!-- Env Variables -->
 ### :key: Environment Variables
 
-To run this project, you will need to create an .env file on the root directory and add the following environment variables to it.
+### Front end: 
+To run the front-end section, you will need to create an .env file on the root directory and add the following environment variables to it.
 Need an api key from: 
  - Gemini AI API: https://aistudio.google.com/
  - WeatherAPI: https://www.weatherapi.com/
@@ -117,6 +118,67 @@ VITE_GEM_AI_API_KEY = ""
 VITE_WEATHER_API_KEY = ""
 VITE_GOOGLE_IMG_KEY = ""
 ```
+
+### Back end: 
+To run and connect correctly with the postgreSQL db and the Azure in the spring boot project at the application.yml file make sure to:
+- add the correct port of your system `server: port: 8080`
+- add the correct url and username/password: 
+``` 
+url: jdbc:postgresql://localhost:[your port]/levart
+username: [your username]
+password: [your password]
+```
+- add your container-name and account key
+```
+azure:
+  storage:
+      container-name: [name]
+      connection-string: DefaultEndpointsProtocol=https;AccountName=[name];AccountKey=[your key];EndpointSuffix=core.windows.net
+```
+
+***Import notice***: The data displayed in this web application is sourced from the **TestDataLoader.java** file in the backend. If you'd like to use your own images, or if the current images are not visible (possibly due to my expired student subscription on Azure), please update the URLs accordingly. If you want to use the same images i will have them in the folder **assets** of this repository.
+
+### <a href="https://go-skill-icons.vercel.app/"><img src="https://go-skill-icons.vercel.app/api/icons?i=figma" /> </a> Figma File
+
+[Preview File](https://www.figma.com/design/O2c7dlm66rro7a5cPMklxf/Levart---Social-Media-x-Travelling?node-id=0-1&t=rpRK5Gl7XNUafDnJ-1)
+
+### Color Palette
+Blue: 
+- `#6FA8DC` 	
+
+Purple - Pink: 
+- `#8E7CC3`
+- `#DC6FBC`
+- `#6F81DC`
+
+Yellow:
+- `#DCCA6F`
+- `#F2F1EC`
+
+Red:
+- `#E06666`
+- `#F87171`
+
+Green:
+- `#00241B`
+- `#2E8236`
+- `#47A050`
+- `#78E378`
+- `#9ED7A3`
+- `#D2FFD7`
+
+Grey:
+- `#FFFFFF`
+- `#D4D4D8`
+- `#F2F1EC`
+- `#F5F5F5`
+- `#8A8A8A`
+- `#71717A`
+- `#3A3A3A`
+
+### Typography: 
+- Roboto
+
 
 <!-- Getting Started -->
 ## 	:toolbox: Getting Started
