@@ -138,7 +138,7 @@ azure:
 
 ### <a href="https://go-skill-icons.vercel.app/"><img src="https://go-skill-icons.vercel.app/api/icons?i=figma" /> </a> Figma File
 
-File : https://www.figma.com/design/O2c7dlm66rro7a5cPMklxf/Levart---Social-Media-x-Travelling?node-id=0-1&t=rpRK5Gl7XNUafDnJ-1
+[Preview File](https://www.figma.com/design/O2c7dlm66rro7a5cPMklxf/Levart---Social-Media-x-Travelling?node-id=0-1&t=rpRK5Gl7XNUafDnJ-1)
 
 ### Color Palette
 Blue: 
