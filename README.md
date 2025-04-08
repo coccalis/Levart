@@ -136,6 +136,8 @@ azure:
       connection-string: DefaultEndpointsProtocol=https;AccountName=[name];AccountKey=[your key];EndpointSuffix=core.windows.net
 ```
 
+***Import notice***: The data displayed in this web application is sourced from the **TestDataLoader.java** file in the backend. If you'd like to use your own images, or if the current images are not visible (possibly due to my expired student subscription on Azure), please update the URLs accordingly. If you want to use the same images i will have them in the folder **assets** of this repository.
+
 ### <a href="https://go-skill-icons.vercel.app/"><img src="https://go-skill-icons.vercel.app/api/icons?i=figma" /> </a> Figma File
 
 [Preview File](https://www.figma.com/design/O2c7dlm66rro7a5cPMklxf/Levart---Social-Media-x-Travelling?node-id=0-1&t=rpRK5Gl7XNUafDnJ-1)
