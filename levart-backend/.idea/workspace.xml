@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="497594ca-2009-443a-849f-e38dd177cc61" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cock/levart/TestDataLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cock/levart/TestDataLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cock/levart/model/Group.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cock/levart/model/Group.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cock/levart/service/FollowService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cock/levart/service/FollowService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cock/levart/service/MessageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cock/levart/service/MessageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2q2ROxE5bzs0polKW9YovaDPfyf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.LevartApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="LevartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="levart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cock.levart.LevartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="497594ca-2009-443a-849f-e38dd177cc61" name="Changes" comment="" />
+      <created>1733858658331</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733858658331</updated>
+      <workItem from="1733858661412" duration="1649000" />
+      <workItem from="1734016368478" duration="2519000" />
+      <workItem from="1734019374039" duration="1300000" />
+      <workItem from="1734093022904" duration="1638000" />
+      <workItem from="1734103489115" duration="1905000" />
+      <workItem from="1734173668575" duration="2356000" />
+      <workItem from="1734258689739" duration="7541000" />
+      <workItem from="1734267270724" duration="404000" />
+      <workItem from="1734363221595" duration="11000" />
+      <workItem from="1734860469812" duration="2530000" />
+      <workItem from="1734893738593" duration="30000" />
+      <workItem from="1735045197969" duration="1684000" />
+      <workItem from="1735064709582" duration="4311000" />
+      <workItem from="1735237219108" duration="30000" />
+      <workItem from="1735291277152" duration="147000" />
+      <workItem from="1735635090568" duration="18000" />
+      <workItem from="1735635173954" duration="115000" />
+      <workItem from="1735638112874" duration="1722000" />
+      <workItem from="1735839048527" duration="30000" />
+      <workItem from="1735928594899" duration="404000" />
+      <workItem from="1736597701206" duration="2267000" />
+      <workItem from="1736681112996" duration="163000" />
+      <workItem from="1736706064887" duration="2947000" />
+      <workItem from="1736759824929" duration="5319000" />
+      <workItem from="1736931508120" duration="3625000" />
+      <workItem from="1737020438818" duration="2021000" />
+      <workItem from="1737051931767" duration="2142000" />
+      <workItem from="1737129989768" duration="3478000" />
+      <workItem from="1737195261373" duration="1715000" />
+      <workItem from="1737491367523" duration="1038000" />
+      <workItem from="1738077769276" duration="16000" />
+      <workItem from="1738139696493" duration="8899000" />
+      <workItem from="1738228968043" duration="7554000" />
+      <workItem from="1738307078144" duration="1415000" />
+      <workItem from="1738337444815" duration="8856000" />
+      <workItem from="1738401953403" duration="21616000" />
+      <workItem from="1738489514801" duration="5052000" />
+      <workItem from="1738570151825" duration="5068000" />
+      <workItem from="1738602871020" duration="6653000" />
+      <workItem from="1738654875945" duration="8812000" />
+      <workItem from="1738742085123" duration="13950000" />
+      <workItem from="1738789481648" duration="1056000" />
+      <workItem from="1738847835034" duration="726000" />
+      <workItem from="1738858301346" duration="1238000" />
+      <workItem from="1738871110044" duration="654000" />
+      <workItem from="1738874633730" duration="2647000" />
+      <workItem from="1738916436042" duration="6925000" />
+      <workItem from="1739004583795" duration="10696000" />
+      <workItem from="1739033540989" duration="70000" />
+      <workItem from="1739099877358" duration="5001000" />
+      <workItem from="1739118274743" duration="1573000" />
+      <workItem from="1739123849644" duration="211000" />
+      <workItem from="1739185460822" duration="631000" />
+      <workItem from="1739190710193" duration="131000" />
+      <workItem from="1739201578811" duration="15546000" />
+      <workItem from="1739275821748" duration="17199000" />
+      <workItem from="1739451734020" duration="190000" />
+      <workItem from="1739522164692" duration="710000" />
+      <workItem from="1739635799666" duration="1084000" />
+      <workItem from="1739984848053" duration="426000" />
+      <workItem from="1740067842186" duration="1378000" />
+      <workItem from="1740387788595" duration="9000" />
+      <workItem from="1740391394465" duration="1941000" />
+      <workItem from="1740472336875" duration="2725000" />
+      <workItem from="1740676018644" duration="725000" />
+      <workItem from="1741105587306" duration="692000" />
+      <workItem from="1741192227096" duration="3216000" />
+      <workItem from="1741366461631" duration="671000" />
+      <workItem from="1741452543090" duration="1292000" />
+      <workItem from="1741629312333" duration="717000" />
+      <workItem from="1741969057669" duration="45000" />
+      <workItem from="1742201594669" duration="4454000" />
+      <workItem from="1743676687419" duration="1847000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,35 @@
+cors:
+  allowed-origins: "*"
+  allowed-methods: "*"
+  allowed-headers: "*"
+  exposed-headers: "*"
+
+server:
+  port: 8080
+  tomcat:
+    accesslog:
+      enabled: true
+      directory: logs
+      prefix: access_log
+      suffix: .log
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5433/levart
+    username: postgres
+    password: Kokkalis
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+    show-sql: false
+    properties:
+      hibernate:
+        format_sql: true
+    database: postgresql
+
+
+azure:
+  storage:
+      container-name: cock
+      connection-string: DefaultEndpointsProtocol=https;AccountName=cocc;AccountKey=XQUVNbaIcCsWgUR5a2DxhkHSEyfLZKZ040vx9aCFd0vGlqx1gvEHRaNH9OPoaEfSilnTSZllk22q+AStj1uTAw==;EndpointSuffix=core.windows.net
