@@ -4,7 +4,7 @@
   <h1>Levart - Beyond Destinations, Creating Memories</h1>
   
   <p>
-   A social media web application based on travelling!
+A social media website based on travelling.  
   </p>
   
    
