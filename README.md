@@ -11,7 +11,7 @@ A social media website based on travelling.
 <h4>
   <!--  <a href="https://github.com/Louis3797/awesome-readme-template/">View Demo</a>-->
   <!--<span> · </span>-->
-    <a href="https://polynoe.lib.uniwa.gr/xmlui/handle/11400/8705">Documentation</a>
+    <a href="https://polynoe.lib.uniwa.gr/xmlui/handle/11400/8705">Documentation (in greek)</a>
 
   </h4>
 </div>
